@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAzureCI", "HelloAzureCI\HelloAzureCI.csproj", "{0B67E1F9-3BD7-43F0-8971-F338058C01FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAzureCI.Test", "HelloAzureCI.Test\HelloAzureCI.Test.csproj", "{F21C19F7-795F-49E3-91E2-16B244032BCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B67E1F9-3BD7-43F0-8971-F338058C01FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B67E1F9-3BD7-43F0-8971-F338058C01FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B67E1F9-3BD7-43F0-8971-F338058C01FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21C19F7-795F-49E3-91E2-16B244032BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21C19F7-795F-49E3-91E2-16B244032BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21C19F7-795F-49E3-91E2-16B244032BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21C19F7-795F-49E3-91E2-16B244032BCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
