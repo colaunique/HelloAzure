@@ -7,7 +7,7 @@ name : NetCore-HelloAzure-CI
 trigger:
   branches:
     include:
-      - develop
+      - main
   paths:
     include:
       - HelloAzureCI/*
